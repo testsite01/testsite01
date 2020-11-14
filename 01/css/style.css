@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Tahoma, sans-serif;
+}
+
+.header {
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 80px;
+  font-size: 24px;
+  line-height: 1.6;
+  color: #333333;
+}
+
+.header span {
+  font-weight: 300px;
+}
+
+.header strong {
+  font-weight: bold;
+}
+
+.main {
+  padding: 0 10%;
+  text-align: center;
+}
+
+.video {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.form {
+  display: inline-block;
+  vertical-align: top;
+  border: 5px solid #2727d9;
+  padding: 20px;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.form input {
+  width: 300px;
+  padding: 15px;
+  border: 1px solid #333333;
+  font-size: 18px;
+  margin-top: 10px;
+  display: block;
+}
+
+.enter {
+  text-align: center;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.toget {
+  font-size: 18px;
+  font-weight: 900;
+  color: white;
+  background-color: #2727d9;
+  border: none;
+  width: 300px;
+  height: 60px;
+  margin-top: 10px;
+  display: block;
+  margin: 10px auto;
+}
+
+.col {
+  display: inline-block;
+  text-align: center;
+  margin-right: 50px;
+}
+
+.col img {
+  width: 70px;
+  height: 70px;
+}
+
+#quest {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 110px;
+  font-weight: bold;
+}
+
+.features {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+.toget {
+  text-align: center;
+}
